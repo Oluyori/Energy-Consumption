@@ -1,2 +1,2 @@
-# Energy-Consumption
+# EnergyConsumption
 Prediction of Energy Consumption
